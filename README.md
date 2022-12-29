@@ -1,6 +1,6 @@
 <img alt="Coding" width="100%" height="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 <h1 align="left">Hello, I'm Lutfor Rahman</h1>
-<h3 align="left">I am a MERN Stack Developer . Ihave a strong background in both Front-End and Back-End development. I am very passionate about my work .I have already learned the skills of web development .I have knowledge in HTML, CSS, Bootstrap , Tailwind, JavaScript , React js , Node js , Express js ,MongoDB ,Material UI, Firebase-Authentication . Aim to work in a challenging environment . where I can use my talents and skills to grow and expand an organization as well as myself .I want to learn more and more. I always want to try my level best to explore new Skills.</h3>
+<h3 align="left">I am a MERN Stack Developer . I have a strong background in both Front-End and Back-End development. I am very passionate about my work .I have already learned the skills of web development .I have knowledge in HTML, CSS, Bootstrap , Tailwind, JavaScript , React js , Node js , Express js ,MongoDB ,Material UI, Firebase-Authentication . Aim to work in a challenging environment . where I can use my talents and skills to grow and expand an organization as well as myself .I want to learn more and more. I always want to try my level best to explore new Skills.</h3>
 
 
 
