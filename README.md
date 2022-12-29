@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, I'm Lutfor Rahman</h1>
-<h3 align="center">I am a Front-End Developer . I am very passionate about my work .I have already learned the skills of web development .I have knowledge in HTML, CSS, Bootstrap , Tailwind, JavaScript , React js , Node js , Express js ,MongoDB ,Material UI, Firebase-Authentication . Aim to work in a challenging environment . where I can use my talents and skills to grow and expand an organization as well as myself .I want to learn more and more. I always want to try my level best to explore new Skills.</h3>
-<img align ="right" alt="Coding" width="100%" height="500"; src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lutforrahmanseu&label=Profile%20views&color=0e75b6&style=flat" alt="lutforrahmanseu" /> </p>
+<img alt="Coding" width="100%" height="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<h1 align="left">Hello, I'm Lutfor Rahman</h1>
+<h3 align="left">I am a Front-End Developer . I am very passionate about my work .I have already learned the skills of web development .I have knowledge in HTML, CSS, Bootstrap , Tailwind, JavaScript , React js , Node js , Express js ,MongoDB ,Material UI, Firebase-Authentication . Aim to work in a challenging environment . where I can use my talents and skills to grow and expand an organization as well as myself .I want to learn more and more. I always want to try my level best to explore new Skills.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lutforrahmanseu" alt="lutforrahmanseu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Genius Car](https://genius-car-b3e9e.web.app/)
 
