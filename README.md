@@ -1,12 +1,12 @@
 <img alt="Coding" width="100%" height="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 <h1 align="left">Hello, I'm Lutfor Rahman</h1>
-<h3 align="left">I am a MERN Stack Developer . I have a strong background in both Front-End and Back-End development. I am very passionate about my work .I have already learned the skills of web development .I have knowledge in HTML, CSS, Bootstrap , Tailwind, JavaScript , React js , Node js , Express js ,MongoDB ,Material UI, Firebase-Authentication . Aim to work in a challenging environment . where I can use my talents and skills to grow and expand an organization as well as myself .I want to learn more and more. I always want to try my level best to explore new Skills.</h3>
+<h3 align="left">Experienced full-stack developer with 2 years in the industry, eager to apply strong front-end development skills in a full-time role at Analyzen BD Ltd.</h3>
 
 
 
-- 🔭 I’m currently working on [Genius Car](https://genius-car-b3e9e.web.app/)
+- 🔭 I’m currently working on [Doctor Portal](https://doctor-appointment-app-sage.vercel.app/)
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript ,BootStrap ,Tailwind CSS**
+- 🌱 I’m currently learning **Next Js, Tailwind CSS**
 
 - 🔭 I’m currently working on [Ema Jon](https://ema-jon-auth-18653.web.app/)
 
