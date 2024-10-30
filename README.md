@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next Js, Tailwind CSS**
 
-- 🔭 I’m currently working on [Ema Jon](https://ema-jon-auth-18653.web.app/)
+- 🔭 I’m currently working on [Ema Jon]
 
 - 🌱 I’m currently learning **React js ,Express js ,Node js ,Node js**
 
