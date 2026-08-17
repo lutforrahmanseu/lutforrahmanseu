@@ -24,7 +24,7 @@
 <tr>
 <td width="60%" valign="top">
 
-- 🚀 **2+ years** of professional experience in Full-Stack **MERN Development**
+- 🚀 **3+ years** of professional experience in Full-Stack **MERN Development**
 - ⚛️ Specialized in **React.js, Next.js & JavaScript**
 - 🎨 Skilled at crafting responsive, pixel-perfect UI with **Tailwind CSS & Bootstrap**
 - 🔧 Backend experience with **Node.js, Express.js & MongoDB**
